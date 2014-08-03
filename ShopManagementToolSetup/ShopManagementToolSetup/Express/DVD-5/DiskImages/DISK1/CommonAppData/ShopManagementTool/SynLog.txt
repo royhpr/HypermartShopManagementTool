@@ -1,0 +1,114 @@
+12/9/2013 6:15:00 AM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+12/9/2013 6:15:05 AM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+12/9/2013 6:16:39 AM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+Add ManufacturerName:3M ProductID:00000001 Name:just Category:Movies, Music & Games MinimumStock:4
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+12/9/2013 11:32:49 AM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+Delete ProductID:00000001
+Add ManufacturerName:3M ProductID:00000002 Name:just for test 2 Category:Gourmet Food MinimumStock:100
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:54:16 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+Update ProductID:10005058 BatchID:8/3/2014 12:00:00 AM ImportPrice:10.0000 SellingPrice:20.0000 ExpireDate:8/15/2014 12:00:00 AM
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:54:23 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:54:36 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:55:12 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:55:21 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------
+8/3/2014 9:55:30 PM
+----------Start Daily Synchron----------
+----------Manufacturer----------
+----------End Manufacturer----------
+----------Product----------
+----------End Product----------
+----------Stock----------
+----------End Stock----------
+----------Discount----------
+----------End Discount----------
+----------End Daily Synchron----------

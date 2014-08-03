@@ -1,0 +1,35 @@
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddCashierRegister.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditPriceTag.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditStaff.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditStock.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.ChangePassword.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Login.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Main.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Operation.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool.CustomMessageBox.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool.Properties.Resources.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddPendingRequest.resources
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\bin\Debug\HypermartShopInterface.exe.config
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\bin\Debug\HypermartShopInterface.exe
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\bin\Debug\HypermartShopInterface.pdb
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\HypermartShopInterface.exe
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\HypermartShopInterface.pdb
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket Shop Management Tool.csprojResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\hypermart-project-group-08\Hypermarket Shop Management Tool\obj\x86\Debug\Hypermarket Shop Management Tool.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\bin\Debug\HypermartShopInterface.exe.config
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\bin\Debug\HypermartShopInterface.exe
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\bin\Debug\HypermartShopInterface.pdb
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddCashierRegister.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditPriceTag.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditStaff.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddEditStock.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.AddPendingRequest.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.ChangePassword.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Login.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Main.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool._0_View.Operation.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool.CustomMessageBox.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket_Shop_Management_Tool.Properties.Resources.resources
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\Hypermarket Shop Management Tool.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\HypermartShopInterface.exe
+C:\Users\Roy\Desktop\Hypermarket-Shop-Management-Tool\obj\x86\Debug\HypermartShopInterface.pdb
